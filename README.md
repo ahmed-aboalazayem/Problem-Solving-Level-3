@@ -31,55 +31,82 @@ The goal is not simply to solve problems, but to understand:
 
 Problems focused on working with two-dimensional arrays and common matrix operations.
 
-- Random Matrix Generation
-- Ordered Matrix Generation
-- Row and Column Summation
-- Matrix Transpose
-- Element-Wise Matrix Multiplication
-- Matrix Sum
-- Matrix Equality and Comparison
-- Identity Matrix
-- Scalar Matrix
-- Sparse Matrix
-- Searching in Matrices
-- Counting Numbers in Matrices
-- Intersecting Numbers Between Matrices
-- Minimum and Maximum Values
-- Palindrome Matrix
-- Accessing Middle Rows and Columns
+- [Random Matrix Generation](./Problem-01/3X3-Random-Matrix.cpp)
+- [Sum Each Row in Matrix](./Problem-02/Sum-Each-Row-In-Matrix.cpp)
+- [Store Row Sums in Another Array](./Problem-03/Sum-Each-Row-In-Matrix-In-Another-Array.cpp)
+- [Sum Each Column in Matrix](./Problem-04/Sum-Each-Column-In-Matrix.cpp)
+- [Store Column Sums in Another Array](./Problem-05/Sum-Each-Column-In-Matrix-In-Another-Array.cpp)
+- [Ordered Matrix Generation](./Problem-06/3X3-Ordered-Matrix.cpp)
+- [Matrix Transpose](./Problem-07/Transpose-Matrix.cpp)
+- [Multiply Two Matrices](./Problem-08/Multiply-Two-Matrices.cpp)
+- [Print Middle Row and Column](./Problem-09/Print-Middle-Row-And-Column-Of-Matrix.cpp)
+- [Matrix Sum](./Problem-10/Sum-Of-Matrix.cpp)
+- [Check Matrices Equality](./Problem-11/Check-Matrices-Equality.cpp)
+- [Check Typical Matrices](./Problem-12/Check-Typical-Matrices.cpp)
+- [Check Identity Matrix](./Problem-13/Check-Identity-Matrix.cpp)
+- [Check Scalar Matrix](./Problem-14/Check-Scaler-Matrix.cpp)
+- [Count Number in Matrix](./Problem-15/Count-Number-In-Matrix.cpp)
+- [Check Sparse Matrix](./Problem-16/Check-Sparse-Matrix.cpp)
+- [Search for Number in Matrix](./Problem-17/Number-Exists-In-Matrix.cpp)
+- [Find Intersected Numbers in Matrices](./Problem-18/Intersected-Number-In-Matrix.cpp)
+- [Find Minimum and Maximum Number](./Problem-19/Get-Min-And-Max-Number-In-Matrix.cpp)
+- [Check Palindrome Matrix](./Problem-20/Check-Palindrome-Matrix.cpp)
 
 ---
 
 ### 🔤 String Manipulation
 
-Problems designed to strengthen string processing and character manipulation skills.
+Problems designed to strengthen string processing, character manipulation, and string transformation skills.
 
-- Extracting the First Letter of Each Word
-- Uppercase / Lowercase Conversion
-- Inverting Character Case
-- Counting Uppercase and Lowercase Letters
-- Counting Specific Characters
-- Case-Sensitive and Case-Insensitive Searching
-- Vowel Detection
-- Counting Vowels
-- Extracting Vowels
-- Printing Words
-- Counting Words
-- Splitting Strings
-- Trimming Strings
-- Joining Strings
-- Reversing Words
-- Replacing Words
-- Removing Punctuations
+- [Print First Letter of Each Word](./Problem-23/Print-First-Letter-Of-Each-Word.cpp)
+- [Uppercase First Letter of Each Word](./Problem-24/Upper-First-Letter-Of-Each-Word.cpp)
+- [Lowercase First Letter of Each Word](./Problem-25/Lower-First-Letter-Of-Each-Word.cpp)
+- [Uppercase and Lowercase All Letters](./Problem-26/Upper-Lower-All-Letters-Of-a-String.cpp)
+- [Invert Character Case](./Problem-27/Invert-Character-Case.cpp)
+- [Invert All Letters Case](./Problem-28/Invert-All-Letters-Case.cpp)
+- [Count Lowercase and Uppercase Letters](./Problem-29/Count-small-Capital-Letters.cpp)
+- [Count Letters in String](./Problem-30/Count-Letters.cpp)
+- [Check if Character is Vowel](./Problem-31/Is-Vowel.cpp)
+- [Count Vowels](./Problem-32/Count-Vowel.cpp)
+- [Print All Vowels in String](./Problem-33/Print-All-Vowels-In-String.cpp)
+- [Print Each Word in String](./Problem-34/Print-Each-Word-In-String.cpp)
+- [Count Each Word in String](./Problem-35/Count-Each-Word-In-String.cpp)
+- [Split String](./Problem-36/Split-String.cpp)
+- [Trim String](./Problem-37/TrimLeft-TrimRight-Trim.cpp)
+- [Join String](./Problem-38/Join-String.cpp)
+- [Reverse Words](./Problem-39/Reverse-Words.cpp)
+- [Replace Words](./Problem-40/Replace-Words.cpp)
+- [Remove Punctuations](./Problem-41/Remove-Punctuations.cpp)
 
 ---
 
 ### 🔁 Recursion & Mathematical Sequences
 
-Problems focused on understanding recursive thinking and sequence generation.
+Problems focused on understanding iterative and recursive approaches to mathematical sequences.
 
-- Fibonacci Series Using Iteration
-- Fibonacci Series Using Recursion
+- [Fibonacci Series Using Loop](./Problem-21/Implement-Fibonacci-Series-Using-Loop.cpp)
+- [Fibonacci Series Using Recursion](./Problem-22/Implement-Fibonacci-Series-Using-Recursion.cpp)
+
+---
+
+### 💾 Serialization
+
+Problems focused on converting structured records to strings and reconstructing records from strings.
+
+- [Convert Record to Line](./Problem-42-Serialization/Convert-Record-To-Line.cpp)
+- [Convert Line to Record](./Problem-43-Serialization/Convert-Line-To-Record.cpp)
+
+---
+
+### 📁 File Handling
+
+Problems focused on reading, writing, and managing client records using text files.
+
+- [Add Clients to File](./Problem-44-File-Handling/Add-Clients-To-File.cpp)
+- [Show All Clients](./Problem-45-File-Handling/Show-All-Clients.cpp)
+- [Find Client by Account Number](./Problem-46-File-Handling-Searching/Find-Client-By-Account-Number.cpp)
+- [Delete Client](./Problem-47-File-Handling/Delete-Client.cpp)
+- [Update Client by Account Number](./Problem-48-File-Handling/Update-Client-By-Account-Number.cpp)
 
 ---
 
